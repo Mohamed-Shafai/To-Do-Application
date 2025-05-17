@@ -18,10 +18,17 @@ A simple and elegant To-Do List app built with SwiftUI and Core Data.
 - MVVM architecture
 
 ## Screenshots
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-18 at 02 22 22](https://github.com/user-attachments/assets/8ef378ba-59ce-43c8-aafd-e7003aa39ac5)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-18 at 02 24 15](https://github.com/user-attachments/assets/950f742d-83b0-4730-a60b-0d026c4ec006)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ef378ba-59ce-43c8-aafd-e7003aa39ac5" width="300" alt="Task list screenshot"/>
+  <br/>
+  <em>Task list view</em>
+</p>
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/950f742d-83b0-4730-a60b-0d026c4ec006" width="300" alt="Add task screen"/>
+  <br/>
+  <em>Add new task screen</em>
+</p>
 ## Author
 
 Mohamed Shafai – [LinkedIn](https://www.linkedin.com/in/mohamed-shafai/)
